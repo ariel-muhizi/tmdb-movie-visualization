@@ -1,4 +1,4 @@
-# TMDb Movie Visualization
+# TMDB Movie Visualization
 
 This project uses the [TMDb API](https://www.themoviedb.org/documentation/api) to extract data about movies released in 2024, focusing on details like popularity, genres, revenue, and more. The extracted data is then saved as a JSON file for later use in visualizations.
 
